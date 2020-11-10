@@ -1,4 +1,4 @@
-# mask_detection
+# Mask_Detection_Flutter App
 
 A new Flutter application.
 
